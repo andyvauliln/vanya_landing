@@ -17,8 +17,8 @@ const Team = () => {
         </div>
 
         <div id="cards2">
-          <div class="card2">
-            <div class="card-image2">
+          <div className="card2">
+            <div className="card-image2">
               <Image
                 src="/images/vanya_ava2.png"
                 // fill={true}
@@ -27,8 +27,8 @@ const Team = () => {
                 alt="Vanya"
               />
             </div>
-            <div class="flex flex-grow p-6">
-              <div class="card-info-title">
+            <div className="flex flex-grow p-6">
+              <div className="card-info-title">
                 <h3>Viola Octovanya</h3>
                 <h4>* COMPOSE RWAMI 2016 - now</h4>
                 <h4>* COMPOSER AQUARIUS PUSTAKA MUSIKINDO 2015 - now</h4>
@@ -39,8 +39,8 @@ const Team = () => {
               </div>
             </div>
           </div>
-          <div class="card2">
-            <div class="card-image2">
+          <div className="card2">
+            <div className="card-image2">
               <Image
                 src="/images/vanya_tatto.png"
                 width={290}
@@ -48,10 +48,10 @@ const Team = () => {
                 alt="Vanya"
               />
             </div>
-            <div class="card-info-wrapper">
-              <div class="card-info">
-                <i class="fa-duotone fa-unicorn"></i>
-                <div class="card-info-title">
+            <div className="card-info-wrapper">
+              <div className="card-info">
+                <i className="fa-duotone fa-unicorn"></i>
+                <div className="card-info-title">
                   <h3>Viola Octovanys</h3>
                   <h4>* COMPOSE RWAMI 2016 - now</h4>
                   <h4>* COMPOSER AQUARIUS PUSTAKA MUSIKINDO 2015 - now</h4>
@@ -64,8 +64,8 @@ const Team = () => {
               </div>
             </div>
           </div>
-          <div class="card2">
-            <div class="card-image2">
+          <div className="card2">
+            <div className="card-image2">
               <Image
                 src="/images/vanya_ava2.png"
                 loading="eager"
@@ -74,10 +74,10 @@ const Team = () => {
                 alt="Vanya"
               />
             </div>
-            <div class="card-info-wrapper">
-              <div class="card-info">
-                <i class="fa-duotone fa-blender-phone"></i>
-                <div class="card-info-title">
+            <div className="card-info-wrapper">
+              <div className="card-info">
+                <i className="fa-duotone fa-blender-phone"></i>
+                <div className="card-info-title">
                   <h3>Viola Octovany</h3>
                   <h4>* COMPOSE RWAMI 2016 - now</h4>
                   <h4>* COMPOSER AQUARIUS PUSTAKA MUSIKINDO 2015 - now</h4>
