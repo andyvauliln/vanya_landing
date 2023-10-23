@@ -12,7 +12,7 @@ const Team = () => {
         }}
       ></figure>
       <div className="flex flex-col  items-center w-full h-full">
-        <div className="stars cursor-pointer underline underline-offset-8 z-10">
+        <div className="stars cursor-pointer underline underline-offset-8 z-10 text-4xl md:text-6xl">
           Bad Asses
         </div>
 
