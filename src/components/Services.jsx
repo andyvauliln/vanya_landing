@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from "next/image"
 
 const Services = () => {
   return (
@@ -18,11 +19,10 @@ const Services = () => {
           <div className="card">
             <div className="card-content">
               <div className="card-image">
-                <i className="fa-duotone fa-apartment"></i>
+                <Image src="/images/construction.svg" alt="Construction" width="100" height="100"/>
               </div>
               <div className="card-info-wrapper">
                 <div className="card-info">
-                  <i className="fa-duotone fa-apartment"></i>
                   <div className="card-info-title">
                     <h3>Common</h3>
                     <h4>Drafting</h4>
@@ -38,11 +38,10 @@ const Services = () => {
           <div className="card">
             <div className="card-content">
               <div className="card-image">
-                <i className="fa-duotone fa-unicorn"></i>
+              <Image src="/images/construction.svg" alt="Construction" width="100" height="100"/>
               </div>
               <div className="card-info-wrapper">
                 <div className="card-info">
-                  <i className="fa-duotone fa-unicorn"></i>
                   <div className="card-info-title">
                     <h3>Visa Managment</h3>
                     <h4>Creating Social Visa 24f</h4>
@@ -56,11 +55,10 @@ const Services = () => {
           <div className="card">
             <div className="card-content">
               <div className="card-image">
-                <i className="fa-duotone fa-blender-phone"></i>
+              <Image src="/images/construction.svg" alt="Construction" width="100" height="100"/>
               </div>
               <div className="card-info-wrapper">
                 <div className="card-info">
-                  <i className="fa-duotone fa-blender-phone"></i>
                   <div className="card-info-title">
                     <h3>Consultations</h3>
                     <h4>10 min free cosultation.</h4>
@@ -73,11 +71,10 @@ const Services = () => {
           <div className="card">
             <div className="card-content">
               <div className="card-image">
-                <i className="fa-duotone fa-person-to-portal"></i>
+              <Image src="/images/construction.svg" alt="Construction" width="100" height="100"/>
               </div>
               <div className="card-info-wrapper">
                 <div className="card-info">
-                  <i className="fa-duotone fa-person-to-portal"></i>
                   <div className="card-info-title">
                     <h3>IT Legality</h3>
                     <h4>Making Site Terms</h4>
@@ -89,11 +86,10 @@ const Services = () => {
           <div className="card">
             <div className="card-content">
               <div className="card-image">
-                <i className="fa-duotone fa-person-from-portal"></i>
+              <Image src="/images/construction.svg" alt="Construction" width="100" height="100"/>
               </div>
               <div className="card-info-wrapper">
                 <div className="card-info">
-                  <i className="fa-duotone fa-person-from-portal"></i>
                   <div className="card-info-title">
                     <h3>Open Company</h3>
                     <h4>Contract drafting.</h4>
@@ -106,11 +102,10 @@ const Services = () => {
           <div className="card">
             <div className="card-content">
               <div className="card-image">
-                <i className="fa-duotone fa-otter"></i>
+              <Image src="/images/construction.svg" alt="Construction" width="100" height="100"/>
               </div>
               <div className="card-info-wrapper">
                 <div className="card-info">
-                  <i className="fa-duotone fa-otter"></i>
                   <div className="card-info-title">
                     <h3>Other</h3>
                     <h4>Washing Money.</h4>
